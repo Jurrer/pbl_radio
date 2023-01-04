@@ -1,0 +1,4 @@
+radio_esp/debug_custom.json
+radio_esp/debug.cfg
+radio_esp/esp32.svd
+.vscode/
